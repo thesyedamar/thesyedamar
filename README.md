@@ -87,21 +87,6 @@ I’m passionate about building intelligent systems using AI, Machine Learning, 
 * Master agent engineering
 * Contribute to open-source AI projects
 
----
-
-# 📈 GitHub Stats
-
-```md
-Add your GitHub stats cards here using GitHub Readme Stats.
-```
-
-Example:
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-```
-
----
 
 # 🔥 Featured Interests
 
@@ -120,8 +105,7 @@ Example:
 # 🤝 Connect With Me
 
 * GitHub: [https://github.com/thesyedamar](https://github.com/thesyedamar)
-* LinkedIn: Add Your LinkedIn
-* Portfolio: Add Your Website
+
 
 ---
 
